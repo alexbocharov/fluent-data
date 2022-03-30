@@ -5,7 +5,9 @@ namespace Fluent.Data;
 
 #nullable disable
 
+/// <inheritdoc/>
 public class Connection : IConnection
 {
+    /// <inheritdoc/>
     public IConnectionFactory ConnectionFactory { get; set; }
 }

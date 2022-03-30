@@ -3,7 +3,13 @@
 
 namespace Fluent.Data;
 
+/// <summary>
+/// A class implementing this interface is associated to a connection to the database.
+/// </summary>
 public interface IConnection
 {
+    /// <summary>
+    /// Gets or sets the <see cref="IConnectionFactory"/>.
+    /// </summary>
     IConnectionFactory ConnectionFactory { get; set; }
 }
