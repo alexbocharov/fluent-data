@@ -2,7 +2,7 @@
   <PropertyGroup>
     <MajorVersion>1</MajorVersion>
     <MinorVersion>0</MinorVersion>
-    <PatchVersion>1</PatchVersion>
+    <PatchVersion>0</PatchVersion>
     <PreReleaseVersionIteration>1</PreReleaseVersionIteration>
     <PreReleaseVersionLabel></PreReleaseVersionLabel>
     <PreReleaseBrandingLabel></PreReleaseBrandingLabel>
